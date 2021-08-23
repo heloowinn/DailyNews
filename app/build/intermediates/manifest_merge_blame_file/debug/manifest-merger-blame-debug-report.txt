@@ -1,0 +1,81 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.dailynews"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:7:5-37:19
+14        android:allowBackup="true"
+14-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.5.0] /Users/macbookpro/.gradle/caches/transforms-2/files-2.1/7e86b32c3f4b744062b84610964b0d30/core-1.5.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_logo"
+17-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:9:9-39
+18        android:label="@string/app_name"
+18-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_logo"
+19-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:11:9-44
+20        android:supportsRtl="true"
+20-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:12:9-35
+21        android:theme="@style/AppTheme" >
+21-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:13:9-40
+22        <activity
+22-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:15:9-25:20
+23            android:name="com.example.dailynews.SplashActivity"
+23-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:16:13-43
+24            android:noHistory="true"
+24-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:17:13-37
+25            android:screenOrientation="portrait"
+25-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:19:13-49
+26            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" >
+26-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:18:13-80
+27            <intent-filter>
+27-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:20:13-24:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:21:17-69
+28-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:21:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:23:17-77
+30-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:23:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:27:9-28:51
+34            android:name="com.example.dailynews.MainActivity"
+34-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:27:19-47
+35            android:screenOrientation="portrait" />
+35-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:28:13-49
+36        <activity
+36-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:29:9-30:51
+37            android:name="com.example.dailynews.DetailNewsActivity"
+37-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:29:19-53
+38            android:screenOrientation="portrait" />
+38-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:30:13-49
+39        <activity
+39-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:31:9-32:51
+40            android:name="com.example.dailynews.ListNewsActivity"
+40-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:31:19-51
+41            android:screenOrientation="portrait" />
+41-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:32:13-49
+42        <activity
+42-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:33:9-35:15
+43            android:name="com.example.dailynews.SearchActivity"
+43-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:33:19-49
+44            android:screenOrientation="portrait" />
+44-->/Users/macbookpro/Documents/DailyNews/app/src/main/AndroidManifest.xml:34:13-49
+45    </application>
+46
+47</manifest>

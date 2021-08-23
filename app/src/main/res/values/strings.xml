@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily News</string>
+    <string name="daily_news">Daily News</string>
+    <string name="search">Search</string>
+    <string name="berita_terbaru">Berita Terbaru</string>
+    <string name="see_all">Lanjut</string>
+    <string name="favorit_user">Favorit Pembaca</string>
+    <string name="berita_utama">Berita Utama</string>
+</resources>

@@ -1,0 +1,49 @@
+com/example/network/AppInterceptor.java
+ com.example.network.AppInterceptor
+com/example/dailynews/dashboard/adapter/DashboardAdapter.java
+ com.example.dailynews.dashboard.adapter.DashboardAdapter
+ com.example.dailynews.dashboard.adapter.DashboardAdapter$ViewHolder
+com/example/dailynews/ListNewsActivity.java
+ com.example.dailynews.ListNewsActivity
+ com.example.dailynews.ListNewsActivity$1
+com/example/dailynews/dashboard/adapter/ListNewsAdapter.java
+ com.example.dailynews.dashboard.adapter.ListNewsAdapter
+ com.example.dailynews.dashboard.adapter.ListNewsAdapter$ViewHolder
+com/example/dailynews/dashboard/adapter/MyPager.java
+ com.example.dailynews.dashboard.adapter.MyPager
+com/example/dailynews/MainActivity.java
+ com.example.dailynews.MainActivity
+com/example/dailynews/dashboard/FragmentCategory.java
+ com.example.dailynews.dashboard.FragmentCategory
+com/example/dailynews/DetailNewsActivity.java
+ com.example.dailynews.DetailNewsActivity
+com/example/dailynews/SplashActivity.java
+ com.example.dailynews.SplashActivity
+ com.example.dailynews.SplashActivity$1
+com/example/dailynews/Utils/Utils.java
+ com.example.dailynews.Utils.Utils
+com/example/network/ApiClient.java
+ com.example.network.ApiClient
+com/example/model/ListNewsResponse.java
+ com.example.model.ListNewsResponse
+ com.example.model.ListNewsResponse$1
+com/example/dailynews/Utils/RXEdit.java
+ com.example.dailynews.Utils.RXEdit
+ com.example.dailynews.Utils.RXEdit$1
+ com.example.dailynews.Utils.RXEdit$2
+com/example/dailynews/dashboard/FragmentHome.java
+ com.example.dailynews.dashboard.FragmentHome
+ com.example.dailynews.dashboard.FragmentHome$1
+ com.example.dailynews.dashboard.FragmentHome$2
+ com.example.dailynews.dashboard.FragmentHome$3
+com/example/dailynews/BuildConfig.java
+ com.example.dailynews.BuildConfig
+com/example/network/ApiService.java
+ com.example.network.ApiService
+com/example/model/NewsResponse.java
+ com.example.model.NewsResponse
+com/example/dailynews/OnclickItemView.java
+ com.example.dailynews.OnclickItemView
+com/example/dailynews/SearchActivity.java
+ com.example.dailynews.SearchActivity
+ com.example.dailynews.SearchActivity$1
