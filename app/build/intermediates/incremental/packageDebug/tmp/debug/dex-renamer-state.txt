@@ -1,4 +1,4 @@
-#Tue Aug 24 01:12:16 WIB 2021
+#Tue Aug 24 01:43:05 WIB 2021
 base.0=/Users/macbookpro/Documents/DailyNews/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
